@@ -1,0 +1,6 @@
+Speed limit (20km/h)
+Speed limit (30km/h)
+Speed limit (50km/h)
+No entry
+Stop
+Yield
